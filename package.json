@@ -1,0 +1,29 @@
+{
+  "name": "lazypack-dev-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jerrykingxyz/lazypack-dev-server.git"
+  },
+  "keywords": [
+    "lazypack",
+    "dev",
+    "server"
+  ],
+  "author": "jinrui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerrykingxyz/lazypack-dev-server/issues"
+  },
+  "homepage": "https://github.com/jerrykingxyz/lazypack-dev-server#readme",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "lazypack": "^0.1.0"
+  }
+}
